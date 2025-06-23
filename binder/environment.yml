@@ -11,7 +11,7 @@ dependencies:
   - seaborn=0.12.1
   - scikit-learn=1.7.0
   - cartopy=0.24.1
-  - tqdm=4.66.3
+  - tqdm
   - scipy=1.10
   - pip
   - pip:
