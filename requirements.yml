@@ -1,16 +1,16 @@
-- python==3.12
-- geopandas==0.14.4
-- pygmt==0.11
-- GMT
-- openpyxl
-- pandas
-- numpy==1.26.4
-- matplotlib
-- seaborn
-- scikit-learn
-- cartopy
-- tqdm
-- scipy
-- pip
-- pyrolite
-- xlrd
+python==3.12
+geopandas==0.14.4
+pygmt==0.11
+GMT
+openpyxl
+pandas
+numpy==1.26.4
+matplotlib
+seaborn
+scikit-learn
+cartopy
+tqdm
+scipy
+pip
+pyrolite
+xlrd
