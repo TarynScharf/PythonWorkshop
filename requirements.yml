@@ -12,10 +12,10 @@ dependencies:
   - matplotlib
   - seaborn
   - scikit-learn
-  - xlrd
   - cartopy
   - tqdm
   - scipy
   - pip
   - pip:
     - pyrolite
+    - xlrd
