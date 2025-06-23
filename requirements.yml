@@ -5,6 +5,7 @@ dependencies:
   - python==3.12
   - geopandas==0.14.4
   - pygmt==0.11
+  - GMT
   - openpyxl
   - pandas
   - numpy
