@@ -1,0 +1,14 @@
+#!/bin/bash
+# This script runs after the environment is built
+# Fix shared library path for GMT
+
+echo "Setting LD_LIBRARY_PATH so libgmt.so is discoverable"
+
+# Find conda environment location (Binder usually uses /home/jovyan/.conda/)
+ENV_DIR=$(dirname $(which /home/jovyan/.conda/))/../
+
+echo "ENV_DIR is $ENV_DIR"
+
+# Export path so GMT's shared library can be found
+echo "export LD_LIBRARY_PATH=$ENV_DIR/lib:\$LD_LIBRARY_PATH" >> ~/.bashrc
+export LD_LIBRARY_PATH=$ENV_DIR/lib:$LD_LIBRARY_PATH
