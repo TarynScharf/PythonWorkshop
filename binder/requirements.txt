@@ -1,0 +1,13 @@
+geopandas==0.14.4
+pygmt==0.11
+gmt==6.5.0
+pandas==2.0.0
+numpy==1.26.4
+matplotlib
+seaborn==0.12.1
+scikit-learn==1.7.0
+cartopy==0.24.1
+tqdm==4.66.3
+scipy==1.10
+pyrolite==0.3.5
+xlrd==2.0.1
