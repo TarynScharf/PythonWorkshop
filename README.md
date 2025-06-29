@@ -1,6 +1,6 @@
 # PythonWorkshop
-Files for the Introduction to Python workshop
+Welcome to the Python Bootcamp, a Python introductory course tailored to geoscientists. 
 
 ## Opening notebooks
-Run it with binder:
+Click the following link to access workshop materials:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TarynScharf/PythonWorkshop/HEAD)
