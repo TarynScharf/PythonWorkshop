@@ -6,7 +6,7 @@ Click the following link to access workshop materials:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TarynScharf/PythonWorkshop/HEAD)
 
 ## Contributors
-These notesbooks are derived from those of Piero Sampaio and Luc Doucet: https://github.com/pierosampaio/PythonWorkshop
+These notesbooks are derived from those of Piero Sampaio and Luc Doucet: https://github.com/pierosampaio/PythonWorkshop <br />
 Contributors include: <br />
 Hugo Olierook: datasets for notebooks 1 & 2 <br />
 Piero Sampaio: Notebooks 1-4 <br />
