@@ -9,7 +9,7 @@ Click the following link to access workshop materials:
 These notesbooks are derived from those of Piero Sampaio and Luc Doucet: https://github.com/pierosampaio/PythonWorkshop
 Contributors include: <br />
 Hugo Olierook: datasets for notebooks 1 & 2 <br />
-Piero Sampaio: Notesbooks 1-4 <br />
+Piero Sampaio: Notebooks 1-4 <br />
 Taryn Scharf: Notebooks 1 & 3 <br />
 Luc Doucet: Notebook 5 <br />
 
