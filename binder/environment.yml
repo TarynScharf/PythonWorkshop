@@ -13,6 +13,10 @@ dependencies:
   - cartopy
   - tqdm
   - scipy=1.10
+  - mpltern
+  - scikit-bio
+  - plotly
+  - plotly-express
   - pip
   - pip:
       - pyrolite==0.3.5
