@@ -7,9 +7,6 @@ Click the following link to access workshop materials:
 
 ## Contributors
 These notesbooks are derived from those of Piero Sampaio and Luc Doucet: https://github.com/pierosampaio/PythonWorkshop <br />
-Contributors include: <br />
-Hugo Olierook: datasets for notebooks 1 & 2 <br />
-Piero Sampaio: Notebooks 1-4 <br />
-Taryn Scharf: Notebooks 1 & 3 <br />
-Luc Doucet: Notebook 5 <br />
+The following have contributed to these notebooks and data files: <br />
+Hugo Olierook, Piero Sampaio, Taryn Scharf, Luc Doucet, and Ben Knight.
 
