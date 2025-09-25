@@ -1,5 +1,5 @@
 # PythonWorkshop
-Welcome to the Python Bootcamp, a Python introductory course tailored to geoscientists. 
+Welcome to Introduction to Python for Geoscientists.
 
 ## Opening notebooks
 Click the following link to access workshop materials:
